@@ -1,5 +1,5 @@
 # Pyadf4351
-Python Raspiberry Pi Library for the ADF4351 Wideband Frequency Synthesizer chip
+Python Raspberry Pi Library for the ADF4351 Wideband Frequency Synthesizer chip
 
 ## Introduction
 
